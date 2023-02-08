@@ -1,0 +1,3 @@
+[submodule "bibliotheques"]
+	path = bibliotheques
+	url = https://github.com/Carlitos73490/GeometrySubModule
